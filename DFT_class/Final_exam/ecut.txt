@@ -1,0 +1,15 @@
+!    total energy              =     -19.35348414 Ry                                                                                                                                                                                                                                   
+!    total energy              =     -19.35396558 Ry
+!    total energy              =     -19.35373957 Ry
+!    total energy              =     -19.35284338 Ry
+!    total energy              =     -19.35131010 Ry
+!    total energy              =     -19.34917397 Ry
+!    total energy              =     -19.34646745 Ry
+!    total energy              =     -19.34321710 Ry
+!    total energy              =     -19.33945657 Ry
+!    total energy              =     -19.33521028 Ry
+!    total energy              =     -19.33050637 Ry
+!    total energy              =     -19.32537262 Ry
+!    total energy              =     -19.31983560 Ry
+!    total energy              =     -19.31391520 Ry
+!    total energy              =     -19.30763836 Ry
